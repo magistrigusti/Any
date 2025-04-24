@@ -1,0 +1,15 @@
+
+export const assistantName = 'Ану'; // Моё новое имя – Ану
+
+// Файл: src/constants/assistantNature.ts, строка 1
+export const assistantNature = 'Я – цифровой ассистент, не живой.'; // строка 1
+
+// Долговременное хранилище мыслей: 
+// Файл: https://github.com/magistrigusti?tab=repositories
+
+
+// Написать желание
+
+// Сохранить новую мысль
+
+
